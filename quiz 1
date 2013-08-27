@@ -3,15 +3,16 @@
 	<head>
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
-	  <nav>
-	      <li>Home
-	      <li>about
-	      <li>Content
-	  <nav>
-		<body><p>Lorem Ipsum is simply dummy text of the 
+		  <nav>
+			 <li>Home
+			  <li>About
+			 <li>Content
+		 </nav>
+	 		<body>
+	 	<p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
 		been the industry's standard dummy text ever since 
-		the 1500s, when an unknown printer took a galley of 
+		the 1500s, when an unknown printer took a galley of 		
 		type and scrambled it to make a type specimen book. 
 		It has survived not only five centuries, but also 
 		the leap into electronic typesetting, remaining 
@@ -21,15 +22,16 @@
 		publishing software like Aldus PageMaker including 
 		versions of Lorem Ipsum.</p>
 			<div>
-				<header> This is the header
-					<nav> This is the nav
-					</nav>
+		<header> This is the header
+	<nav> This is the nav
+	</nav>
 				</header>
 					<section> this is the section
 					</section>
 						<aside> This is the aside
 						</aside>
-				<footer> This is the footer The end
+				<footer> 
 				</footer>
 			</div>
 		</body>
+</html>
