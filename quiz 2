@@ -1,9 +1,14 @@
 <!Doctype html>
 <html>
 	<head>
-	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
-	  <body><p>Lorem Ipsum is simply dummy text of the 
+		<body>
+		<header>
+		<link rel="stylesheet" href="replace this.css" type="text/css">
+		This is the header
+		</header>
+			<div>
+			<p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
 		been the industry's standard dummy text ever since 
 		the 1500s, when an unknown printer took a galley of 
@@ -15,19 +20,17 @@
 		Lorem Ipsum passages, and more recently with desktop 
 		publishing software like Aldus PageMaker including 
 		versions of Lorem Ipsum.</p>
-			<div>
-		<nav>
-	      <li>Home
-	      <li>about
-	      <li>Content
-	  <nav>
-	      <header> This is the header
-				</header>
-					<section> this is the section
-					</section>
-						<aside> This is the aside
-						</aside>
+			<nav>
+	      <a><li>Home<li></a>
+	      <a><li>about<li></a>
+	      <a><li>Content<li></a>
+	  		</nav>
+		<section> this is the section
+		</section>
+			<aside> This is the aside
+			</aside>
 				<footer> This is the footer The end
 				</footer>
 			</div>
-		</body
+		</body>
+</html>
