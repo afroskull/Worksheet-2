@@ -1,10 +1,11 @@
 <!Doctype html>
+<html>
 	<head>
-	  <nav>
+	  <nav> 
 	     <li>Home
 	      <li>about
 	        <li>Content
-	  <nav>
+	  </nav>
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
 		<body>
