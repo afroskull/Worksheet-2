@@ -2,7 +2,7 @@
 <html>
 	<head>
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
-	</head>
+	</head> header
 	  <body><p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
 		been the industry's standard dummy text ever since 
@@ -15,7 +15,7 @@
 		Lorem Ipsum passages, and more recently with desktop 
 		publishing software like Aldus PageMaker including 
 		versions of Lorem Ipsum.</p>
-			<div>
+			<div> body
 		<nav>
 	      <li>Home
 	      <li>about
@@ -28,6 +28,6 @@
 						<aside> This is the aside
 						</aside>
 				<footer> This is the footer The end
-				</footer>
-			</div>
-		</body
+				</footer> 
+			</div> body
+		</body>/<div>
