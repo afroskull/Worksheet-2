@@ -7,7 +7,7 @@
 	      <li>Home
 	      <li>about
 	      <li>Content
-	  <nav>
+	  </nav>
 		<body><p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
 		been the industry's standard dummy text ever since 
@@ -22,8 +22,6 @@
 		versions of Lorem Ipsum.</p>
 			<div>
 				<header> This is the header
-					<nav> This is the nav
-					</nav>
 				</header>
 					<section> this is the section
 					</section>
