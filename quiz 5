@@ -1,17 +1,16 @@
 <!Doctype html>
 	<head>
 	  <nav>
-	     <li>Home
-	      <li>about
-	        <li>Content
+	     <li/>Home
+	      <li/>about
+	        <li/>Content
 	  <nav>
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
 		<body>
 			<div>
 				<header> This is the header
-					<nav> This is the nav
-					</nav>
+					</nav> This is the nav
 				</header>
 					<section><p>Lorem Ipsum is simply dummy text of the 
 		printing and typesetting industry. Lorem Ipsum has 
@@ -31,4 +30,7 @@
 				<footer> This is the footer The end
 				</footer>
 		</body>
+                      </div>
 </html>
+
+
